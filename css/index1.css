@@ -1,0 +1,38 @@
+.rating_title{
+	color: red;
+}
+.bars_100{
+	float: left;
+	margin-top: 5px;
+}
+.scale{
+	width:299px;
+	height:13px;
+	border:1px solid #eae9e4;
+	border-radius: 5px 5px;
+	float:left;
+	margin:7px 10px auto 10px;
+	position:relative;
+}
+.scale div{
+	width:0px;
+	position:absolute;
+	width:0;
+	left:0;
+	height:13px;
+	bottom:0;
+}
+.btn0{
+	width:10px;
+	height:26px;
+	position:absolute;
+	left:-2px;
+	top:-7px;
+	cursor:pointer;
+	background:url(../images/j.png) no-repeat;
+}
+.font{
+	clear: both;
+	display: inline-block;
+	float: left;
+}

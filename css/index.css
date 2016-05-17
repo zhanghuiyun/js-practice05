@@ -1,0 +1,11 @@
+.font-color{
+	color: red;
+}
+label{
+	display: block;
+	margin-top:10px;
+}
+.btn{
+	display: block;
+	margin-top: 10px;
+}
